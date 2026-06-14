@@ -8,3 +8,4 @@ __pycache__/
 *.zip
 *.npy
 extern_data/
+docs/LABS/.DS_Store
